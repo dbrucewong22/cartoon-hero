@@ -1,0 +1,21 @@
+header{
+	background-color: #3366FF;
+	padding: 40px;
+	text-align: center;
+}
+
+h1{
+	font-size: 90px;
+	color: white;
+}
+
+header img {
+	border-radius: 174px;
+	width: 300px;
+	border: 10px solid #CC0000;
+}
+
+/*<header>
+		<img src="img/profile.jpg">
+		<h1>Wreck-It Ralph</h1>
+	</header>*/
